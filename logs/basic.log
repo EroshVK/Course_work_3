@@ -1,0 +1,56 @@
+2023-01-21 09:48:22,169 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-21 09:48:22,169 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-21 09:48:22,176 [INFO]  * Restarting with stat
+2023-01-21 09:48:22,699 [WARNING]  * Debugger is active!
+2023-01-21 09:48:22,726 [INFO]  * Debugger PIN: 224-999-891
+2023-01-21 09:48:28,219 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-01-21 09:48:29,077 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:29] "GET / HTTP/1.1" 200 -
+2023-01-21 09:48:29,193 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:29] "[36mGET /static/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-21 09:48:29,276 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:29] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-21 09:48:29,283 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:29] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-21 09:48:29,286 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:29] "[36mGET /static/img/like.png HTTP/1.1[0m" 304 -
+2023-01-21 09:48:41,025 [INFO] Запрос /api/posts/
+2023-01-21 09:48:41,027 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:41] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-21 09:48:45,310 [INFO] Запрос /api/posts/1
+2023-01-21 09:48:45,314 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:45] "GET /api/posts/1 HTTP/1.1" 200 -
+2023-01-21 09:48:52,591 [INFO] Запрос /api/posts/3
+2023-01-21 09:48:52,593 [INFO] 127.0.0.1 - - [21/Jan/2023 09:48:52] "GET /api/posts/3 HTTP/1.1" 200 -
+2023-01-21 09:49:57,171 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-21 09:49:57,172 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-21 09:49:57,181 [INFO]  * Restarting with stat
+2023-01-21 09:49:57,708 [WARNING]  * Debugger is active!
+2023-01-21 09:49:57,717 [INFO]  * Debugger PIN: 224-999-891
+2023-01-21 09:50:00,661 [INFO] Р—Р°РїСЂРѕСЃ /api/posts/3
+2023-01-21 09:50:00,663 [INFO] 127.0.0.1 - - [21/Jan/2023 09:50:00] "GET /api/posts/3 HTTP/1.1" 200 -
+2023-01-21 09:50:06,703 [INFO] Р—Р°РїСЂРѕСЃ /api/posts/1
+2023-01-21 09:50:06,705 [INFO] 127.0.0.1 - - [21/Jan/2023 09:50:06] "GET /api/posts/1 HTTP/1.1" 200 -
+2023-01-21 09:50:09,706 [INFO] Р—Р°РїСЂРѕСЃ /api/posts/5
+2023-01-21 09:50:09,709 [INFO] 127.0.0.1 - - [21/Jan/2023 09:50:09] "GET /api/posts/5 HTTP/1.1" 200 -
+2023-01-21 09:50:13,968 [INFO] Р—Р°РїСЂРѕСЃ /api/posts/
+2023-01-21 09:50:13,971 [INFO] 127.0.0.1 - - [21/Jan/2023 09:50:13] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-21 11:40:08,029 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-21 11:40:08,030 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-21 11:40:08,038 [INFO]  * Restarting with stat
+2023-01-21 11:40:08,569 [WARNING]  * Debugger is active!
+2023-01-21 11:40:08,578 [INFO]  * Debugger PIN: 224-999-891
+2023-01-21 11:40:11,265 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:11] "GET / HTTP/1.1" 200 -
+2023-01-21 11:40:11,341 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:11] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-21 11:40:11,348 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:11] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-21 11:40:11,362 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:11] "[36mGET /static/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-21 11:40:11,364 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:11] "[36mGET /static/img/like.png HTTP/1.1[0m" 304 -
+2023-01-21 11:40:12,907 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:12] "GET /users/leo HTTP/1.1" 200 -
+2023-01-21 11:40:12,941 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:12] "[36mGET /static/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-21 11:40:12,972 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:12] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-21 11:40:12,973 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:12] "[36mGET /static/img/like.png HTTP/1.1[0m" 304 -
+2023-01-21 11:40:12,974 [INFO] 127.0.0.1 - - [21/Jan/2023 11:40:12] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-21 11:45:51,536 [INFO]  * Detected change in 'C:\\Users\\63575\\PycharmProjects\\Course_work_3\\dao\\post.py', reloading
+2023-01-21 11:45:51,592 [INFO]  * Restarting with stat
+2023-01-21 11:45:52,087 [WARNING]  * Debugger is active!
+2023-01-21 11:45:52,094 [INFO]  * Debugger PIN: 224-999-891
+2023-01-21 11:47:03,967 [INFO]  * Detected change in 'C:\\Users\\63575\\PycharmProjects\\Course_work_3\\tests\\dao_test.py', reloading
+2023-01-21 11:47:04,038 [INFO]  * Restarting with stat
+2023-01-21 11:47:04,508 [WARNING]  * Debugger is active!
+2023-01-21 11:47:04,515 [INFO]  * Debugger PIN: 224-999-891
